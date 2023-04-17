@@ -18,7 +18,7 @@ subtitle = "To the madness of the brave, we sing a song."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/avatar.jpg"
 
 [article]
 math = false
