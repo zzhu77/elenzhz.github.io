@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://www.elen.su"
+baseurl = "https://blog.elen.su"
 languageCode = "en"
 paginate = 5
 title = "elenzhz's blog"
